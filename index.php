@@ -1,4 +1,41 @@
 <!DOCTYPE html>
+<style>
+body {
+  background-color: lightgray;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: darkred;
+  text-transform: uppercase;
+  margin-top: 50px;
+}
+
+p {
+  color: gray;
+  font-size: 1.2em;
+  margin: 20px;
+}
+
+h2 {
+  color: darkblue;
+  font-size: 1.5em;
+  margin: 40px 0 20px;
+}
+
+ul {
+  list-style-type: square;
+  font-size: 1.2em;
+  margin: 20px;
+  padding: 0;
+  text-align: left;
+}
+
+a {
+  color: blue;
+}
+</style>
 
 <html>
 
